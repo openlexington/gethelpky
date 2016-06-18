@@ -1,4 +1,4 @@
-# Get Help Lex [![Build Status](https://travis-ci.org/openlexington/gethelplex.svg)](https://travis-ci.org/openlexington/gethelplex) [![Stories in Ready](https://badge.waffle.io/openlexington/gethelplex.svg?label=ready&title=Ready)](http://waffle.io/openlexington/gethelplex)
+# Get Help KY [![Build Status](https://travis-ci.org/openlexington/gethelpky.svg)](https://travis-ci.org/openlexington/gethelpky) [![Stories in Ready](https://badge.waffle.io/openkyington/gethelpky.svg?label=ready&title=Ready)](http://waffle.io/openlexington/gethelpky)
 
 ## I want to help develop Finda
 
@@ -25,7 +25,7 @@ Let's say you want to new information about facilities like "do they let you smo
 
 A lot of Code for Boston's [development documentation](https://github.com/codeforboston/finda/wiki/Developing-Finda) is still relevant. Let us know if you hit any key differences for Lexington and we'll update this readme!
 
-Look in the [waffle board](https://waffle.io/openlexington/finda) for priority issues.
+Look in the [waffle board](https://waffle.io/openlexington/gethelpky) for priority issues.
 
 ## How to Test
 

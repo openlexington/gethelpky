@@ -38,7 +38,7 @@ function handleResponse(e) {
     var msg = e.parameters.feedback;
     if (e.parameters.email) { msg += ', email: ' + e.parameters.email; }
 
-    MailApp.sendEmail("foo@bar.com", "[GetHelpLex feedback]", msg);
+    MailApp.sendEmail("foo@bar.com", "[GetHelpKY feedback]", msg);
 
     // next set where we write the data - you could write to multiple/alternate destinations
     var doc = SpreadsheetApp.openById(SCRIPT_PROP.getProperty("key"));
