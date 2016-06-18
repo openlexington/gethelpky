@@ -91,7 +91,7 @@
   "analytics": {
     "enabled": true,
     "private": false,
-    "google_tracker": null,
+    "google_tracker": "UA-43022260-2",
     "hostname": "auto",
     "detail_enabled": true
   },
